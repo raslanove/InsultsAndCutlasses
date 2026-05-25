@@ -172,4 +172,10 @@ MIT License
 
 -   Built with `llama.cpp`, `Gemma 4 E2B`, and LoRA fine-tuning techniques
 
--   Special thanks to the open-source AI community
+-   Special thanks to the open-source AI community and contributors who make local LLM development possible
+
+-   Huge thanks to the **Dev.to community** for fostering experimentation and creativity in AI game development
+
+This project was developed as part of the **Gemma 4 Challenge** hosted on Dev.to:
+
+[Dev.to Gemma 4 Challenge](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in?utm_source=chatgpt.com)
