@@ -3,6 +3,8 @@
 
 Fight your way through to the Swordmaster of Melee Island, armed with your witty insults and sharp comebacks!
 
+![Insults & Cutlasses Cover](assets/cover.jpg)
+
 ---
 
 ## 🏴 Introduction
