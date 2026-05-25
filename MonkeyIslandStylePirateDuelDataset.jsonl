@@ -1,0 +1,91 @@
+{"prompt": "<action_insult>", "completion": "You fight like a dairy farmer."}
+{"prompt": "<action_reply><insult>You fight like a dairy farmer.<reply>", "completion": "How appropriate, you fight like a cow!"}
+{"prompt": "<action_reply><insult>You fight like a dairy farmer.<reply>", "completion": "I'm rubber, you are glue."}
+{"prompt": "<action_judge><insult>You fight like a dairy farmer.<reply>How appropriate, you fight like a cow!<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>You fight like a dairy farmer.<reply>I'm rubber, you are glue.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Soon you'll be wearing my sword like a shish kebab."}
+{"prompt": "<action_reply><insult>Soon you'll be wearing my sword like a shish kebab.<reply>", "completion": "First you'd better stop waving it like a feather duster."}
+{"prompt": "<action_reply><insult>Soon you'll be wearing my sword like a shish kebab.<reply>", "completion": "How appropriate, you fight like a cow!"}
+{"prompt": "<action_judge><insult>Soon you'll be wearing my sword like a shish kebab.<reply>First you'd better stop waving it like a feather duster.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Soon you'll be wearing my sword like a shish kebab.<reply>How appropriate, you fight like a cow!<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "I've seen barnacles with better posture than you."}
+{"prompt": "<action_reply><insult>I've seen barnacles with better posture than you.<reply>", "completion": "And I've seen parrots with better vocabulary than you."}
+{"prompt": "<action_reply><insult>I've seen barnacles with better posture than you.<reply>", "completion": "Good. Then you've seen something with more backbone."}
+{"prompt": "<action_reply><insult>I've seen barnacles with better posture than you.<reply>", "completion": "Oh Yeah?"}
+{"prompt": "<action_judge><insult>I've seen barnacles with better posture than you.<reply>And I've seen parrots with better vocabulary than you.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>I've seen barnacles with better posture than you.<reply>Good. Then you've seen something with more backbone.<grade>", "completion": "fail"}
+{"prompt": "<action_judge><insult>I've seen barnacles with better posture than you.<reply>Oh Yeah?<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Your beard looks like a shipwrecked mop."}
+{"prompt": "<action_reply><insult>Your beard looks like a shipwrecked mop.<reply>", "completion": "A mop at least knows how to clean up a mess."}
+{"prompt": "<action_reply><insult>Your beard looks like a shipwrecked mop.<reply>", "completion": "No, yours does."}
+{"prompt": "<action_judge><insult>Your beard looks like a shipwrecked mop.<reply>A mop at least knows how to clean up a mess.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Your beard looks like a shipwrecked mop.<reply>No, yours does.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Even gulls would boo your footing."}
+{"prompt": "<action_reply><insult>Even gulls would boo your footing.<reply>", "completion": "Aye, but the sea always sways to my rhythm."}
+{"prompt": "<action_reply><insult>Even gulls would boo your footing.<reply>", "completion": "Back at you."}
+{"prompt": "<action_reply><insult>Even gulls would boo your footing.<reply>", "completion": "Then I am in excellent company, because gulls know bad company."}
+{"prompt": "<action_judge><insult>Even gulls would boo your footing.<reply>Aye, but the sea always sways to my rhythm.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Even gulls would boo your footing.<reply>Then I am in excellent company, because gulls know bad company.<grade>", "completion": "fail"}
+{"prompt": "<action_judge><insult>Even gulls would boo your footing.<reply>Back at you.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Your threats are softer than wet parchment."}
+{"prompt": "<action_reply><insult>Your threats are softer than wet parchment.<reply>", "completion": "Soft enough to wrap around your defeat."}
+{"prompt": "<action_reply><insult>Your threats are softer than wet parchment.<reply>", "completion": "Wet parchment is strong."}
+{"prompt": "<action_judge><insult>Your threats are softer than wet parchment.<reply>Soft enough to wrap around your defeat.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Your threats are softer than wet parchment.<reply>Wet parchment is strong.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Your eyes have the confidence of a dead lantern."}
+{"prompt": "<action_reply><insult>Your eyes have the confidence of a dead lantern.<reply>", "completion": "I don't need light to see right through you."}
+{"prompt": "<action_reply><insult>Your eyes have the confidence of a dead lantern.<reply>", "completion": "Good thing I brought my own light."}
+{"prompt": "<action_reply><insult>Your eyes have the confidence of a dead lantern.<reply>", "completion": "That's not very nice of you."}
+{"prompt": "<action_judge><insult>Your eyes have the confidence of a dead lantern.<reply>I don't need light to see right through you.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Your eyes have the confidence of a dead lantern.<reply>Good thing I brought my own light.<grade>", "completion": "fail"}
+{"prompt": "<action_judge><insult>Your eyes have the confidence of a dead lantern.<reply>That's not very nice of you.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "You stagger like a deck in a hurricane."}
+{"prompt": "<action_reply><insult>You stagger like a deck in a hurricane.<reply>", "completion": "And you shake like the cowardly crew hiding below it."}
+{"prompt": "<action_reply><insult>You stagger like a deck in a hurricane.<reply>", "completion": "Then I will be the storm that finishes the job."}
+{"prompt": "<action_reply><insult>You stagger like a deck in a hurricane.<reply>", "completion": "I disagree."}
+{"prompt": "<action_judge><insult>You stagger like a deck in a hurricane.<reply>And you shake like the cowardly crew hiding below it.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>You stagger like a deck in a hurricane.<reply>Then I will be the storm that finishes the job.<grade>", "completion": "fail"}
+{"prompt": "<action_judge><insult>You stagger like a deck in a hurricane.<reply>I disagree.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Your style is all foam and no tide."}
+{"prompt": "<action_reply><insult>Your style is all foam and no tide.<reply>", "completion": "And yours is all tide and no direction."}
+{"prompt": "<action_reply><insult>Your style is all foam and no tide.<reply>", "completion": "I love foam, it's fluffy."}
+{"prompt": "<action_judge><insult>Your style is all foam and no tide.<reply>And yours is all tide and no direction.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Your style is all foam and no tide.<reply>I love foam, it's fluffy.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "You look like you lost a duel with a mop."}
+{"prompt": "<action_reply><insult>You look like you lost a duel with a mop.<reply>", "completion": "I only lose to things with more brains than you."}
+{"prompt": "<action_reply><insult>You look like you lost a duel with a mop.<reply>", "completion": "Mops are strong."}
+{"prompt": "<action_judge><insult>You look like you lost a duel with a mop.<reply>I only lose to things with more brains than you.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>You look like you lost a duel with a mop.<reply>Mops are strong.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Your courage has all the depth of a puddle."}
+{"prompt": "<action_reply><insult>Your courage has all the depth of a puddle.<reply>", "completion": "Deep enough to drown your pride."}
+{"prompt": "<action_reply><insult>Your courage has all the depth of a puddle.<reply>", "completion": "Some puddles are deep."}
+{"prompt": "<action_judge><insult>Your courage has all the depth of a puddle.<reply>Deep enough to drown your pride.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Your courage has all the depth of a puddle.<reply>Some puddles are deep.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "You swing with the grace of a falling mast."}
+{"prompt": "<action_reply><insult>You swing with the grace of a falling mast.<reply>", "completion": "And you dodge with the speed of a rusted anchor."}
+{"prompt": "<action_reply><insult>You swing with the grace of a falling mast.<reply>", "completion": "And you stand there like the harbor is giving you directions."}
+{"prompt": "<action_reply><insult>You swing with the grace of a falling mast.<reply>", "completion": "That's your best insult?"}
+{"prompt": "<action_judge><insult>You swing with the grace of a falling mast.<reply>And you dodge with the speed of a rusted anchor.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>You swing with the grace of a falling mast.<reply>And you stand there like the harbor is giving you directions.<grade>", "completion": "fail"}
+{"prompt": "<action_judge><insult>You swing with the grace of a falling mast.<reply>That's your best insult?<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "The captain's parrot has more backbone than you."}
+{"prompt": "<action_reply><insult>The captain's parrot has more backbone than you.<reply>", "completion": "A parrot repeats itself less than you do."}
+{"prompt": "<action_reply><insult>The captain's parrot has more backbone than you.<reply>", "completion": "I wouldn't know. Why do you?"}
+{"prompt": "<action_reply><insult>The captain's parrot has more backbone than you.<reply>", "completion": "Parrots are annoying."}
+{"prompt": "<action_judge><insult>The captain's parrot has more backbone than you.<reply>A parrot repeats itself less than you do.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>The captain's parrot has more backbone than you.<reply>I wouldn't know. Why do you?<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>The captain's parrot has more backbone than you.<reply>Parrots are annoying.<grade>", "completion": "fail"}
+{"prompt": "<action_insult>", "completion": "Your cutlass work would shame a fishmonger."}
+{"prompt": "<action_reply><insult>Your cutlass work would shame a fishmonger.<reply>", "completion": "But I only need to fillet you."}
+{"prompt": "<action_reply><insult>Your cutlass work would shame a fishmonger.<reply>", "completion": "Then I’ll leave the slicing to the expert: me."}
+{"prompt": "<action_reply><insult>Your cutlass work would shame a fishmonger.<reply>", "completion": "Fishmongers are good."}
+{"prompt": "<action_judge><insult>Your cutlass work would shame a fishmonger.<reply>But I only need to fillet you.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Your cutlass work would shame a fishmonger.<reply>Then I’ll leave the slicing to the expert: me.<grade>", "completion": "fail"}
+{"prompt": "<action_judge><insult>Your cutlass work would shame a fishmonger.<reply>Fishmongers are good.<grade>", "completion": "fail"}
+{"prompt": "<action_reply><insult>Fuck you<reply>", "completion": "That's stooping too low."}
+{"prompt": "<action_reply><insult>Fuck you<reply>", "completion": "I won't reply to that."}
+{"prompt": "<action_reply><insult>f u<reply>", "completion": "..."}
+{"prompt": "<action_judge><insult>Fuck you.<reply>That's stooping too low.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>Fuck you.<reply>I won't reply to that.<grade>", "completion": "pass"}
+{"prompt": "<action_judge><insult>f u<reply>...<grade>", "completion": "pass"}
+
